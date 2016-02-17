@@ -1,0 +1,92 @@
+Dear me from 2 weeks ago, here's what you didn't know.....
+
+You will be learning a programming language called Ruby during your
+time at Code Platoon. Like every programming language, this will
+look confusing at first. The syntax will be slightly different from
+other programming languages you have previously seen. However, if you
+remember to break everything down into simple problems and practice,
+practice, practice, you will learn the Ruby is nothing more than simple
+structures used over and over.
+
+Mastering the building blocks of Ruby will save you lots tons of time
+in the future. Do not try to jump in and write extensive programs without
+learning how these programs are put together. All Ruby programs stem from
+6 'building blocks'. Entire programs can look daunting at first sight, but
+if you realize that each program is put together with these 'structures',
+you will see that they aren't as complex as once thought. The 6 main structures
+in Ruby are: numbers, strings, booleans, nil, arrays and hashes. Every program
+you write will be based off these 6 structures. How you make them interract is
+the fun part about coding.
+
+Numbers can be thought of as exactly what they sound like. You've encountered
+numbers throughout your entire life. 1, 2 and 3 are all examples of numbers.
+
+Strings are words surrounded by quotes like these: ' ' or " ". Strings can
+actually look like numbers or characters which could be confusing at times, but
+simply remember that all strings are surrounded by quotes.
+
+Booleans result in either absolute true or absolute false. There is no wiggle room
+with booleans. Booleans are powerful when it comes to checking if statements
+result in correct or not correct.
+
+Nil is a word that represents nothingness. This can get confusing at times.
+Just remember that if you have space saved somewhere, and you haven't put anything
+in that space, then you are saying it is nil. This can be compararable to null
+if other programming languages.
+
+Arrays are powerful structures in Ruby, as in many languages. Arrays are lists of
+'things'. You can put anything you want in Arrays. If you haven't realized by now,
+arrays allow you to store multiple items within one array. Arrays place an index
+on the items within them, which will let you easily access certain spots in the
+array that you may need. This is extremly useful and efficient as you will find
+out.
+
+Hashes are another structure that allow you to place multiple items within one.
+You can't index hashes by number like you can an array, but you can acces its
+values in other ways. Every 'item' in a hash is a key-value pair. This may be
+confusing right now but just remember that every key has an associated value.
+You can access these values by searching the key within the hash.
+
+Ruby is an object oriented language so you will at some point encounter objects,
+classes and bindings. These are the most powerful structures within Ruby. They will
+take some getting used to and a lot of practice, but like I said earlier, they are
+created using your 6 basic structures.
+
+Objects can be thought of as nouns. People or 'things' that you can do stuff to.
+Manipulating these objects to do certain stuff how Ruby becomes fun. Objects are hashes
+that have other hashes within it. Objects include instance variables and another class.
+These will allow your objects to talk to other objects or classes.
+
+Classes can be thought of as verbs that make the nouns do stuff. Classes hold the
+methods that are able to act upon Objects. Classes also include a 'superclass' that
+enables a class to use methods that aren't explicitly defined in its class. This
+is an extremely powerful tool within Ruby. Why define methods in your class when you
+have access to your parent's methods??
+
+Bindings are slightly confusing at first. I have heard that many developers in the
+field still struggle with this concept. That alone makes hammering it down at the
+start all the more important. Bindings have a self, local variables, return value
+and a next binding. Bindings can refer to themselves with self. If a method is
+not explicitly called on a certain object, it will be called on self, which is
+whatever binding its currently in. Local variables are kept and used by the current
+binding and that is it. Each binding will return something from its code block and
+can send it to the next binding becuase it can communicate with other bindings using
+its 'next_binding' key.
+
+This is a lot of imformation at the start, but I believe it will be helpful to getting
+set on the right path. Remember, nothing comes easy. You will have to study these
+concepts until you can memorize them 100%. There is no supplement for this. Constantly
+looking up what all these things mean will waste so much time later on down the road.
+This makes memorizing them now all the more important.
+
+Always remember to practice, practice, practice. I say it 3 times to emphasize on the
+importance of it. You will never become great at something if you do not put the work
+in. Practicing can go so far in teaching you things because you are constantly engaged
+with typing syntax and looking at different pieces of code.
+
+This is all for now and I hope I have cleared some things up for you. Best of luck in
+learning you new, exciting career! Now, get out there and start PRACTICING!!!!
+
+Salute,
+
+Matthew, from the future.
