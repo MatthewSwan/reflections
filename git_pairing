@@ -1,0 +1,26 @@
+====== Git Pairing ======
+
+Branches allow separate users to upload different versions of code
+with separate histories. Github is able to merge these branches together
+so that all code base is within one project.
+
+One person will initialize the master branch and they will be called
+"Host". "Pairs" will have accesss to the master branch on github cloning
+the host's repository.
+
+Pairs can view the master branch: "git checkout master"
+Continually check the status of code by typing "git status" or "gs"
+Getting the latest version of master code: "git pull (address of master)"
+  This allows branch masters to work on the latest code
+Creating a new branch (verify you are doing this from the master repo:
+  "git checkout -b (branch name)"
+Pushing a branch to github: "git push -u origin (branch name)"
+You will then go to github and and 'pull' the branch to the master
+It there are not any problems with the code: merge the branched
+  code with the master
+Check out the master branch to verify the branched code has been set in
+  place: "git checkout master"
+Pull the new changes from the master: "git pull"
+
+
+

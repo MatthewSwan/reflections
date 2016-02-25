@@ -1,0 +1,11 @@
+:.! date
+
+puts the date into your document.
+
+can be used with many different arguments.
+
+viwU - uppercases the word you are on.
+
+~ - uppercases a letter
+
+'Ctrl+u/d' - scroll up or down half the page in vim

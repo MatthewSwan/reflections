@@ -1,0 +1,20 @@
+gems are libraries that we get from Rubygems. We need them because
+some libraries don't come with ruby.
+
+The gitloc program will take a git repo  and tell the user how many
+lines of code it has.
+
+We started by making the code exacutable. We then wanted it to run without
+explicitly stating ruby. This is done by placing a 'shebang' at the top
+of the code '#!usr/bin/env ruby'
+
+The env is in the shebang because the ruby executable is consistent on
+each computer. This allows the gem to be located at various spots on
+other individual's computers. It will consistently look in /usr/bin/env
+for the ruby executable.
+
+
+
+
+
+
